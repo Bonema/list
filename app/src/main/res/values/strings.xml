@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">Nama Pahlawan</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+    <item>Abu Bakar Muhammad bin Zakaria ar-Razy</item>
+    <item>Abu Ali Muhammad al-Hassan</item>
+    <item>Abu Yusuf Yacub Ibnu Ishak Al-Kindi</item>
+    <item>Abul Qasim Khalaf ibn al-Abbas az-Zahrawi</item>
+    <item>Ibnu Rushd</item>
+    <item>Abu Raihan Al-Biruni</item>
+    <item>Muhammad Ibnu Musa Al-Khawarizmi</item>
+    <item>Abu Nasir Al-Farabi</item>
+    <item>Abul Wafa Muhammad</item>
+    <item>Abu Ali Al-Husein Ibnu Shina</item>
+    <item>Piri Reis</item>
+    <item>Omar Al-Khayyám</item>
+    </string-array>
+
+    <string-array name="data_description">
+    <item>Di dunia Barat dikenal sebagai Rhazes, merupakan salah seorang
+        pakar sains Iran yang hidup antara tahun 864 – 930. Ar-Razy juga
+        diketahui sebagai ilmuwan serba bisa dan dianggap sebagai salah satu
+        ilmuwan terbesar dalam Islam. Ia lahir di Razy, Teheran pada tahun 251 H.
+        /865 dan wafat pada tahun 313 H/925. Ar-Razy sejak muda telah mempelajari
+        filsafat, kimia, matematika dan kesastraan. Dalam bidang kedokteran, ia berguru
+        kepada Hunayn bin Ishaq di Baghdad. Sekembalinya ke Teheran, ia dipercaya untuk
+        memimpin sebuah rumah sakit di Razy. Selanjutnya ia juga memimpin Rumah Sakit Muqtadari
+        di Baghdad. Sebagai seorang dokter utama di rumah sakit di Baghdad.
+    </item>
+
+    <item>eliau dikenal dalam kalangan cerdik pandai di Barat, dengan nama Alhazen, adalah seorang
+        ilmuwan Islam yang ahli dalam bidang sains, falak, matematika, geometri, pengobatan, dan filsafat.
+        Ia banyak pula melakukan penyelidikan mengenai cahaya, dan telah memberikan ilham kepada ahli
+        sains barat seperti Boger, Bacon, dan Kepler dalam menciptakan mikroskop serta teleskop. Bidang
+        lain: Physics,Optics, Mathematics. Sebagai pelopor di bidang optik dengan kamus optiknya
+        (Kitab Al Manazhir) jauh sebelum Roger Bacon, Leonardo da Vinci, Keppler, dan Newton, penemu
+        hukum pemantulan dan pembiasan cahaya (jauh sebelum Snellius), penemu alat ukur ketinggian bintang
+        kutub, menerangkan pertambahan ukuran bintang-bintang dekat zenit
+    </item>
+
+    <item>Dalam dunia Barat dia dikenal dengan nama Al-Kindus. Memang sudah
+        menjadi semacam adat kebiasaan orang barat pada masa lalu dengan melatinkan
+        nama-nama orang terkemuka, sehingga kadang-kadang orang tidak mengetahui
+        apakah orang tersebut muslim atau bukan. Tetapi para sejarawan kita sendiri
+        maupun Barat mengetahui dari buku-buku yang ditinggalkan bahwa mereka adalah
+        orang Islam, karena karya original mereka dapat diketahui dalam bentuk tulisan
+        ilmiah mereka sendiri. Al Khindi adalah ilmuwan ahli ensiklopedi, pengarang 270
+        buku, ahli matematika, fisika, musik, kedokteran, farmasi, geografi, ahli filsafat
+        Arab dan Yunani kuno. Al-Kindi adalah seorang filosof muslim dan ilmuwan sedang bidang
+        disiplin ilmunya adalah: Filosofi, Matematika, Logika, Musik, Ilmu Kedokteran.
+    </item>
+
+    <item>Sang Penemu Gips Era Islam. Abu Al Zahrawi merupakan seorang dokter, ahli bedah, maupun
+        ilmuan yang berasal dari Andalusia. Dia merupakan penemu asli dari teknik pengobatan patah
+        tulang dengan menggunakan gips sebagaimana yang dilakukan pada era modern ini. Sebagai seorang
+        dokter era kekalifahan, dia sangat berjasa dalam mewariskan ilmu kedokteran yang penting bagi
+        era modern ini.
+    </item>
+
+    <item>Nama lengkapnya Abu Walid Muhammad Ibnu Ahmad adalah ahli falsafah, perubatan, matematik,
+        teologi, ahli fikah mazhab Maliki, astronomi, geografi dan sains. Rushd  adalah ahli falsafah
+        yang paling agung pernah dilahirkan dalam sejarah Islam.
+    </item>
+
+    <item>Seorang matematikawan Persia, astronom, fisikawan, sarjana, penulis ensiklopedia, filsuf,
+        pengembara, sejarawan, ahli farmasi dan guru, yang banyak menyumbang kepada bidang matematika,
+        filsafat, obat-obatan. Abu Raihan Al-Biruni dilahirkan di Khawarazmi, Turkmenistan atau Khiva
+        di kawasan Danau Aral di Asia Tengah yang pada masa itu terletak dalam kekaisaran Persia. Dia
+        belajar matematika dan pengkajian bintang dari Abu Nashr Mansur.
+    </item>
+
+    <item>Nama lengkapnya ABU ABDULLAH MUHAMMAD BIN MUSA AL-KHAWARIZMY. Ia Lahir di Khawariz, Uzbekistan
+        pada tahu 194 H/780 M. Pada usia mudanya, selama kepemimpinan khalifah Al-Makmun, ia bekerja di
+        Baitul Hikam. Di sana ia bekerja dalam sebuah observatorium tempat ia menekuni matematika dan ekonomi.
+        Muahammad Ibnu Musa Al-Khawarizmy adalah tokoh utama dalam kajian matematika Arab.
+    </item>
+
+    <item>Orang barat menyebutnya dengan ALFARABIUS. Ia hidup tahun antara tahun 870-950 Masehi dan
+        merupakan tokoh Islam yang pertama dalam bidang Logika. Al Farabi juga mengembangkan dan
+        mempelajari ilmu Fisika, Matematika, Etika, Filosofi, Politik, dan sebagainya. Bidang lain:
+        Sociology, Logic, Philosophy, Political Science, Music, salah satu karya besarnya dijiplak bebas
+        oleh Thomas Aquinas.Walaupun Al-Farabi lebih dikenal sebagai seorang fiolsof dari pada ilmuwan,
+        namun karya-karyanya banyak pula yang menyangkut selain bidang filsapat.
+    </item>
+
+    <item>Sebagai seorang ahli astronomi dan matematikawan dari Persia. Pada tahun 959, Abul Wafa
+        pindah ke Irak, dan mempelajari matematika khususnya trigonometri di sana. Dia juga mempelajari
+        pergerakan bulan; salah satu kawah di bulan dinamai Abul Wáfa sesuai dengan namanya. Salah satu
+        kontribusinya dalam trigonometri adalah mengembangkan fungsi tangen dan mengembangkan metode
+        untuk menghitung tabel trigonometri.
+    </item>
+
+    <item>Beliau dikenal dengan nama Ave Cenna, yang hidup antara tahun 986-1037 M. Seorang ilmuwan
+        muslim dan Filosof besar pada waktu itu, hingga kepadanya diberikan julukan Syeh Al-Rais.
+        Keistimewaannya antara lain pada masa umur 10 tahun sudah hafal Al-Qur`an, kemudian pada usia
+        18 tahun sudah mampu menguasai semua ilmu yang ada pada waktu itu, bidang keahliannya adalah
+        ilmu Kedokteran, ilmu Fisika, Geologi, Mineralogi. Juga dibidang Medicine, Philosophy,
+        Mathematics, Astronomy. Penulis kaidah kedokteran modern (dipakai sebagai referensi ilmu
+        kedokteran Barat), menulis buku tentang fungsi organ tubuh, meneliti penyakit TBC,Diabetes
+        dan penyakit yang ditimbulkan oleh efek fikiran.
+    </item>
+
+    <item>Pencipta peta dunia terlengkap dibuat pada tahun 1513. Para ahli satelit sendiri pun merasa
+        terkejut dengan model pemetaan yang dibuat oleh tokoh Muslim tersebut. Peta yang dibuat di atas
+        sepotong kulit rusa berukuran 90×65 centimeter tersebut benar-benar digambarkan lengkap dan cukup
+        detail. Bahkan hasil perbandingan dengan pemotretan dari angkasa luar yang dilakukan menggunakan
+        satelit saat ini memiliki bentuk yang sangat mirip. Mulanya para sejarawan tidak percaya akan
+        bukti keberadaan peta tersebut.
+    </item>
+
+    <item>Seorang penyair, ahli matematik, dan ahli astronomi. Kahyyam yang lahir: 18 Mei 1048 di
+        Nishapur, Iran (Parsi) dan meninggal 4 Desember 1131 itu mempunyai nama asli Ghiyatuddin Abu
+        al-Fatah Omar ibni Ibrahim Al-Nisaburi Khayami. Khayam adalah perkataan pinjaman bahasa Arab
+        yang bermakna “pembuat khemah.” Beliau paling dikenali kerana himpunan puisinya, Rubaiyat Omar
+        Khayyam. Beliau memecahkan persamaan pangkat tiga dan empat melalui kerucut-kerucut yang
+        merupakan ilmu aljabar tertinggi dalam matematika modern.
+    </item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/abu_bakar</item>
+        <item>@drawable/abu_ali</item>
+        <item>@drawable/abu_yusuf</item>
+        <item>@drawable/abul_qasim</item>
+        <item>@drawable/ibnu_rushd</item>
+        <item>@drawable/abu_raihan</item>
+        <item>@drawable/muhammad_ibnu</item>
+        <item>@drawable/abu_nasir</item>
+        <item>@drawable/abul_wafa</item>
+        <item>@drawable/abu_ali2</item>
+        <item>@drawable/piri_reis</item>
+        <item>@drawable/omar</item>
+
+    </array>
+
+</resources>
